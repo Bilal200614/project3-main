@@ -33,7 +33,7 @@
 			            <main class="producten_main">
                               <div class="products">
                                  <div class="section_suits2">
-                                     <a href="schoen1.php"><img src="img/19206-6654b-scaled.jpg" class="producten"></a>
+                                     <a href="schoen1.php"><img src="img/19206-6654b-scaled.jpg" class="zwartwit"></a>
                                          <h3 id="h3">Nike Sock Dart Premium</h3>
                                             <p></p>
                                                 <span>€89,99</span>
